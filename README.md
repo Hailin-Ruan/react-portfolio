@@ -31,6 +31,10 @@ To run this project locally, follow these steps:
 2. ```npm install```
 3. ```npm start```
 
+## Acknowledgments
+
+- Credit to [FreeCodeCamp.org](https://www.freecodecamp.org/news/build-portfolio-website-react/) for their inspiring article about [building website with React].
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
