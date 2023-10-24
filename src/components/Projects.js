@@ -12,7 +12,8 @@ export default function Projects() {
             Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Some projects I've built with thanks to USYD x edX full stack bootcamp and my fellow peers who were on this journey with me.
+            Some projects I've built with thanks to USYD x edX full stack
+            bootcamp and my fellow peers who were on this journey with me.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
@@ -23,7 +24,9 @@ export default function Projects() {
               className="sm:w-1/2 w-100 p-4"
               style={{ height: "300px" }} // Set a fixed height for the image container
             >
-              <div className="flex relative h-full"> {/* Set the container height to 100% */}
+              <div className="flex relative h-full">
+                {" "}
+                {/* Set the container height to 100% */}
                 <img
                   alt="gallery"
                   className="absolute inset-0 w-full h-full object-cover object-center"

@@ -12,7 +12,11 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-          Full stack development, to me, is like being an architect of the digital world. I love the challenge of building both the visible and invisible parts of a website or application. It’s not just about writing code; it’s about crafting experiences, solving problems, and creating solutions that empower users and businesses alike.
+            Full stack development, to me, is like being an architect of the
+            digital world. I love the challenge of building both the visible and
+            invisible parts of a website or application. It’s not just about
+            writing code; it’s about crafting experiences, solving problems, and
+            creating solutions that empower users and businesses alike.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

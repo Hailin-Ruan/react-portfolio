@@ -10,8 +10,7 @@ export const projects = [
   {
     title: "Timed Quiz",
     subtitle: "HTML and CSS powered by Javascript",
-    description:
-      "This is a timed coding quiz with multiple-choice questions",
+    description: "This is a timed coding quiz with multiple-choice questions",
     image: "/project-2.gif",
     link: "https://hailin-ruan.github.io/timed-quiz/",
   },

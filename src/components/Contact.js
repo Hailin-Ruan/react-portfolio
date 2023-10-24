@@ -25,19 +25,26 @@ export default function Contact() {
   }
 
   return (
-    <section id="contact" className="relative flex items-center justify-center h-screen">
-    <div className="max-w-lg w-full p-8 bg-gray-800 rounded shadow-lg">
-      <form
-        netlify
-        name="contact"
-        onSubmit={handleSubmit}
-        className="flex flex-col space-y-4"
-      >
+    <section
+      id="contact"
+      className="relative flex items-center justify-center h-screen"
+    >
+      <div className="max-w-lg w-full p-8 bg-gray-800 rounded shadow-lg">
+        <form
+          netlify
+          name="contact"
+          onSubmit={handleSubmit}
+          className="flex flex-col space-y-4"
+        >
           <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
-            Get in touch 
+            Get in touch
           </h2>
           <p className="leading-relaxed mb-5">
-            If you have any exciting opportunities, collaboration ideas, or just want to chat about technology and innovation, I'm all ears! Let's brainstorm, collaborate, and bring creative visions to life. Together, we can craft extraordinary digital experiences and build something truly remarkable.
+            If you have any exciting opportunities, collaboration ideas, or just
+            want to chat about technology and innovation, I'm all ears! Let's
+            brainstorm, collaborate, and bring creative visions to life.
+            Together, we can craft extraordinary digital experiences and build
+            something truly remarkable.
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
@@ -66,7 +73,8 @@ export default function Contact() {
           <div className="relative mb-4">
             <label
               htmlFor="message"
-              className="leading-7 text-sm text-gray-400">
+              className="leading-7 text-sm text-gray-400"
+            >
               Message
             </label>
             <textarea
@@ -77,13 +85,13 @@ export default function Contact() {
             />
           </div>
           <button
-          type="submit"
-          className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
-        >
-          Submit
-        </button>
+            type="submit"
+            className="text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg"
+          >
+            Submit
+          </button>
 
-        <div className="flex items-center space-x-4 mt-6">
+          <div className="flex items-center space-x-4 mt-6">
             {/* GitHub Icon and Link */}
             <a
               href="https://github.com/Hailin-Ruan"
@@ -92,7 +100,7 @@ export default function Contact() {
             >
               <i className="fab fa-github text-3xl text-white"></i>
             </a>
-            
+
             {/* LinkedIn Icon and Link */}
             <a
               href="https://www.linkedin.com/in/hailin-ruan-987012243/"
@@ -102,7 +110,6 @@ export default function Contact() {
               <i className="fab fa-linkedin text-3xl text-white"></i>
             </a>
           </div>
-
         </form>
       </div>
     </section>
