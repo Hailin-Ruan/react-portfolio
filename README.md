@@ -8,7 +8,7 @@ Welcome to my portfolio! This is a showcase of my skills, projects, and experien
 
 ## Link
 
-This is the link to my portfolio: <p><a href="https://just-another-text-edit0r-bd37dce72f66.herokuapp.com/">Hailin's Portfolio</a></p>
+This is the link to my portfolio: <p><a href="https://hailin-portfolio.netlify.app/">Hailin's Portfolio</a></p>
 
 ## Features
 
