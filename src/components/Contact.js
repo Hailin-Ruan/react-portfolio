@@ -82,6 +82,27 @@ export default function Contact() {
         >
           Submit
         </button>
+
+        <div className="flex items-center space-x-4 mt-6">
+            {/* GitHub Icon and Link */}
+            <a
+              href="https://github.com/Hailin-Ruan"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-github text-3xl text-white"></i>
+            </a>
+            
+            {/* LinkedIn Icon and Link */}
+            <a
+              href="https://www.linkedin.com/in/hailin-ruan-987012243/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <i className="fab fa-linkedin text-3xl text-white"></i>
+            </a>
+          </div>
+
         </form>
       </div>
     </section>
