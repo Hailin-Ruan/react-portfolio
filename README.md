@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 ## Acknowledgments
 
 - Credit to [FreeCodeCamp.org](https://www.freecodecamp.org/news) for their inspiring article about "building website with React".
-- - Special thanks to [Reed Barger](https://www.freecodecamp.org/news/author/reed/) for their articles on React and Tailwind.
+- Special thanks to [Reed Barger](https://www.freecodecamp.org/news/author/reed/) for their articles on React and Tailwind.
 
 ## License
 
